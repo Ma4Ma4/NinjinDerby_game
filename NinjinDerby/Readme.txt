@@ -26,10 +26,13 @@ Twitter -> https://twitter.com/New_Luminosite
 あくまで習作であり、至らない点を飲み込んだ製作物であることを踏まえていただけると幸いです。
 
 【はじめかた】
-1. GitHubからNinjinDerbyディレクトリをダウンロードします。
-2. NinjinDerbyディレクトリ内のrunMini.batファイルをダブルクリックして実行し、ローカルホストサーバを起動します。
-3. Webブラウザを立ち上げ、「http://localhost:8000/main.html」にアクセスします。
-4. ゲームタイトル画面が表示されます。
+1. GitHubからNinjinDerby_game-main.zipをダウンロードします。
+2. 適当な場所に展開し、NinjinDerby_game-main\NinjinDerbyディレクトリ内のrunMini.batファイルを
+　 ダブルクリックして実行します。
+3. WIndows Defenderのダイアログが表示されるので、[詳細]から[実行]を選択します。バッチファイルが
+   実行され、コマンドプロンプト上でローカルホストサーバが起動したメッセージが表示されます。
+4. Webブラウザを立ち上げ、「http://localhost:8000/main.html」にアクセスします。
+5. ゲームタイトル画面が表示されます。
 
 
 【基本操作】
