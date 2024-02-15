@@ -1,4 +1,3 @@
-// http://k-hiura.cocolog-nifty.com/blog/2020/06/post-2e42ed.html
 import java.io.File;
 import java.io.*;
 import java.net.InetSocketAddress;
